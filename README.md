@@ -8,10 +8,10 @@ yarn install
 
 ### Boilerplate features
 
-[x] vue 2
-[x] tailwind
-[x] vuex
-[x] vue-router (history)
+- [x] vue 2
+- [x] tailwind
+- [x] vuex
+- [x] vue-router (history)
 
 ### Compiles and hot-reloads for development
 
