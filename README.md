@@ -12,6 +12,7 @@ yarn install
 - [x] tailwind
 - [x] vuex
 - [x] vue-router (history)
+- [x] eslint + prettier
 
 ### Compiles and hot-reloads for development
 
